@@ -1,0 +1,9 @@
+From: Sophia Chen <sophia.chen@acme‑ai.com>  
+To: Luke Anderson <luke.anderson@amazon.com>  
+Subject: Kickoff Call for Joint PoC on Low‑Latency RAG  
+Date: Mon, 12 May 2025 09:22 AM PDT  
+
+Hi Luke,  
+Thank you for agreeing in principle to pursue a proof‑of‑concept together. Our leadership team is excited to see how Amazon’s vector DB service pairs with our reranking stack. Could we schedule a 30‑minute kickoff next Monday at 10 AM Pacific? I’ll circulate an agenda once the slot is confirmed.
+
+---

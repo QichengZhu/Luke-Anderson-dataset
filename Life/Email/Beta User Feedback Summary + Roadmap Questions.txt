@@ -1,0 +1,9 @@
+From: Isabella Garcia <isabella.garcia@lambda‑edge.io>  
+To: Luke Anderson  
+Subject: Beta User Feedback Summary + Roadmap Questions  
+Date: Mon, 26 May 2025 02:18 PM PDT  
+
+Hi Luke,  
+The first cohort of beta users returned overwhelmingly positive feedback on your async API endpoints. They specifically praised the detailed error codes and retry guidance. We do have a backlog item about limiting request sizes to prevent abuse; how does your team plan to address that? I’d appreciate your insights before we finalize the Q3 roadmap.
+
+---

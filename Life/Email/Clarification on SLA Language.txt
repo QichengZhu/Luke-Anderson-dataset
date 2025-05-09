@@ -1,0 +1,9 @@
+From: Paulo Silva <paulo.silva@rio‑cloud.com>  
+To: Luke Anderson  
+Subject: Clarification on SLA Language  
+Date: Wed, 21 May 2025 01:44 PM BRT  
+
+Hi Luke,  
+We reviewed the draft SLA and need clarity on “commercially reasonable efforts” with respect to 99.9 % uptime. Could we instead specify a numerical threshold for partial outages under one minute? Legal wants explicit remediation steps if thresholds are missed. Happy to discuss over Zoom tomorrow morning.
+
+---

@@ -1,0 +1,9 @@
+From: Pedro Alvarez <p.alvarez@azure‑edge.com>  
+To: Luke Anderson  
+Subject: Latency Spike on us‑west‑2—Need Root Cause  
+Date: Mon, 2 Jun 2025 11:18 AM PDT  
+
+Hi Luke,  
+Our monitoring flagged a 40 ms p95 latency spike on us‑west‑2 between 02:20–02:40 UTC last night. We rolled back a network update, but traces still show intermittent stalls. Could you pull your side’s metrics and help pinpoint whether the bottleneck sits in the request queue or the inference layer? Our SREs are standing by.
+
+---

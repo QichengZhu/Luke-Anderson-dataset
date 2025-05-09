@@ -1,0 +1,9 @@
+From: Emily Park <e.park@veridian‑labs.com>  
+To: Luke Anderson  
+Subject: POC Completion Report—Key Metrics Enclosed  
+Date: Thu, 22 May 2025 10:20 AM PDT  
+
+Hi Luke,  
+Our team wrapped up the 14‑day proof‑of‑concept earlier today. The pipeline hit 1,200 req/s with steady 45 ms p95 latency, outperforming our legacy stack by 32 %. The attached report breaks down costs and recommendations. Could we schedule a read‑out next week to discuss next steps?
+
+---

@@ -1,0 +1,9 @@
+From: Carlos Ramirez <c.ramirez@contoso.com>  
+To: Luke Anderson  
+Subject: Re: SDK Timeout Handling—Need Final Numbers  
+Date: Tue, 13 May 2025 03:14 PM PDT  
+
+Hi Luke,  
+Your clarifications on exponential back‑off were very helpful, but our auditors still require concrete timeout ranges for compliance. Could you share the lower and upper bounds the SDK enforces under different network conditions? We need to finalize our internal risk document by Thursday. Let me know if you can hop on a quick call tomorrow.
+
+---

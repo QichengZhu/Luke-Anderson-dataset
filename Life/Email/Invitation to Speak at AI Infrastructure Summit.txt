@@ -1,0 +1,9 @@
+From: Grace Li <g.li@venture‑spark.com>  
+To: Luke Anderson  
+Subject: Invitation to Speak at AI Infrastructure Summit  
+Date: Tue, 20 May 2025 11:05 AM PDT  
+
+Hi Luke,  
+On behalf of Venture Spark, I’m thrilled to invite you as a panelist for our AI Infrastructure Summit in San Francisco on July 18. Your work on optimizing batch inference at Amazon would provide valuable perspective. Panels are 40 minutes plus 20 minutes Q&A, and an honorarium is offered. Please let me know if you’re available.
+
+---

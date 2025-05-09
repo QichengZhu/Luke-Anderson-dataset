@@ -1,0 +1,9 @@
+From: Noah Kim <noah.kim@rainbow‑analytics.com>  
+To: Luke Anderson  
+Subject: Quarterly Business Review—Data Request  
+Date: Fri, 23 May 2025 09:55 AM PDT  
+
+Hi Luke,  
+Our Q2 business review is set for June 6, and leadership wants deeper insight into embedding compute costs versus query volume. Could you export the daily cost breakdown for March‑May and place it in the shared S3 folder? Having that by Tuesday would allow us to prep the deck before the dry run.
+
+---

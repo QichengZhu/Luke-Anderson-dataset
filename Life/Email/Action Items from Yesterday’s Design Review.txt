@@ -1,0 +1,9 @@
+From: Rajesh Patel <rajesh.patel@quantum‑bytes.io>  
+To: Luke Anderson  
+Subject: Action Items from Yesterday’s Design Review  
+Date: Mon, 19 May 2025 04:12 PM PDT  
+
+Hi Luke,  
+Thanks for moderating the design review; your insights on sharding strategy were spot on. Per discussion, we will prototype the two‑tier cache and measure p99 latency by Friday. Could you provide sample traffic traces so our simulation is realistic? I’ll update the shared tracker once we have early numbers.
+
+---

@@ -1,0 +1,9 @@
+From: Helena Iverson <helena.iverson@aurora‑ml.com>  
+To: Luke Anderson  
+Subject: Clarifying Container Runtime Requirements  
+Date: Fri, 30 May 2025 08:50 AM PDT  
+
+Hi Luke,  
+Our deployment uses Firecracker VMs, and we noticed your container image references GPU drivers v675. Would v685 be backward‑compatible, or should we pin to your version? We plan a production rollout next Wednesday, so any guidance by Monday would be fantastic.
+
+---

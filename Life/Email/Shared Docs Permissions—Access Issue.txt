@@ -1,0 +1,9 @@
+From: Daniel Nguyen <daniel.nguyen@zenith‑storage.com>  
+To: Luke Anderson  
+Subject: Shared Docs Permissions—Access Issue  
+Date: Wed, 4 Jun 2025 09:02 AM PDT  
+
+Hi Luke,  
+I attempted to access the “Vector Index Benchmarks” spreadsheet you referenced, but Google Drive says I need permission. Could you grant daniel.nguyen@zenith‑storage.com edit access? We’d like to replicate your tests on our hardware this weekend.
+
+---

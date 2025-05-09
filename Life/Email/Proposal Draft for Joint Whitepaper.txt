@@ -1,0 +1,9 @@
+From: Amelia Brown <amelia.brown@globex.com>  
+To: Luke Anderson  
+Subject: Proposal Draft for Joint Whitepaper  
+Date: Thu, 15 May 2025 11:47 AM PDT  
+
+Hi Luke,  
+I’ve attached the first draft of our whitepaper on scalable inference pipelines. Your recent benchmarks on dynamic batching would strengthen Section 3 if you can share data points. We’re aiming for submission to the IEEE Cloud AI Symposium by June 10. Please add comments directly in the doc and we’ll consolidate by next week.
+
+---

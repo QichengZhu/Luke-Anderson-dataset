@@ -1,0 +1,9 @@
+From: Marcus Williams <marcus.williams@stonebridge‑capital.com>  
+To: Luke Anderson  
+Subject: Data‑Room Access for Series B Due Diligence  
+Date: Thu, 29 May 2025 10:06 AM EDT  
+
+Hi Luke,  
+Stonebridge Capital is evaluating a potential investment in ShiningCloud, and we understand you led their API benchmarking. Would you be willing to grant our analysts read‑only access to your test scripts and result logs? An NDA is attached for your review, and we’re on a tight timeline to close diligence by June 10.
+
+---

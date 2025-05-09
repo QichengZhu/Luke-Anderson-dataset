@@ -1,0 +1,9 @@
+From: Dr. Aisha Malik <a.malik@palm‑tech.org>  
+To: Luke Anderson  
+Subject: Call for Papers—Journal of Distributed ML Systems  
+Date: Tue, 27 May 2025 10:28 AM BST  
+
+Dear Luke,  
+I’m guest‑editing a special issue on cost‑efficient LLM deployment and would be honored if you submitted a paper. Your recent conference findings on paged attention could greatly benefit our readership. The submission deadline is August 1; guidelines are attached. Please let me know if you plan to contribute.
+
+---
